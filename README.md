@@ -1,0 +1,1 @@
+# Pratik---Not-Ortalamas-Hesaplayan-Program
