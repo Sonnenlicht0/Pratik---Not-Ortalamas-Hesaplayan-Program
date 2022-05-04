@@ -1,11 +1,8 @@
-https://app.patika.dev/courses/java101/pratik-not-ortalamasi
 
 
+    import java.util.Scanner;
 
-
-import java.util.Scanner;
-
-public class java {
+    public class java {
     public static void main(String[] args) {
         int mat, fizik, kimya, türkçe, tarih, müzik;
 
