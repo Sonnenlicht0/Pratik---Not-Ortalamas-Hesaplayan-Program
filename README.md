@@ -1,6 +1,8 @@
 https://app.patika.dev/courses/java101/pratik-not-ortalamasi
 
 
+
+
 import java.util.Scanner;
 
 public class java {
